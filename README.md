@@ -1,1 +1,1 @@
-# math6650_advanced_numerical_analysis
+# MATH6650_advanced_numerical_analysis
